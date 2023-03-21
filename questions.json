@@ -50,15 +50,15 @@
                 "image": "images/C2a.png"
             },
             "9": {
-                "question": " There are several different types of orbitals that contain electrons. Which two kinds of orbitals contain valence electrons?",
+                "question": " There are several different types of orbitals\n that contain electrons. Which two kinds of \norbitals contain valence electrons?",
                 "answer": "S and P Orbitals",
                 "image": "images/C2b.png"
             }
         },
         "M": {
             "10": {
-                "question": "As atomic number increases, what happens to the atomic radius of an element? Therefore, which element has the larger atomic radius, Chlorine or Mercury?",
-                "answer": "Atomic radius increases as atomic number increases, because more energy levels means a bigger atom; Mercury",
+                "question": "As atomic number increases, what happens to the \natomic radius of an element? Therefore, which element \nhas the larger atomic radius, Chlorine or Mercury?",
+                "answer": "Atomic radius increases as atomic number increases,\n because more energy levels means a bigger atom; Mercury",
                 "image": "images/NO IMAGE.png"
             },
             "13": {
@@ -67,7 +67,7 @@
                 "image": "images/C2f.png"
             },
             "14": {
-                "question": "When an electron falls from a higher energy level to a lower energy level, what happens?",
+                "question": "When an electron falls from a higher energy \nlevel to a lower energy level, what happens?",
                 "answer": "Energy is released as light",
                 "image": "images/C2g.png"
             }
@@ -79,7 +79,7 @@
                 "image": "images/NO IMAGE.png"
             },
             "12": {
-                "question": "Write the Noble Gas electron configuration of Iridium.",
+                "question": "Write the Noble Gas electron configuration \nof Iridium.",
                 "answer": "[Xe]6s24f145d6",
                 "image": "images/NO IMAGE.png"
             }
@@ -89,45 +89,45 @@
         "E": {
             "15": {
                 "question": "What is the difference between ionic bonds and covalent bonds?",
-                "answer": "In ionic bonding, the cation transfers electrons to the anion, while in covalent bonding, electrons are shared between the two ions.",
+                "answer": "In ionic bonding, the cation transfers electrons to the \nanion, while in covalent bonding, electrons are shared\n between the two ions.",
                 "image": "images/C3a.png"
             },
             "22": {
-                "question": "Which group on the periodic table has a full set of valence electrons? Are the elements in this group highly reactive?",
+                "question": "Which group on the periodic table has a full set of \nvalence electrons? Are the elements in this group highly reactive?",
                 "answer": "Noble gases have 8 valence electrons; no, they are non-reactive",
                 "image": "images/C3h.png"
             }
         },
         "M": {
             "16": {
-                "question": "Write the chemical formula for carbon tetraiodide? Is it an ionic or covalent compound?",
+                "question": "Write the chemical formula for carbon \ntetraiodide? Is it an ionic or covalent compound?",
                 "answer": "CI4; it is covalent",
                 "image": "images/NO IMAGE.png"
             },
             "17": {
-                "question": "What is the chemical formula for Cobalt (II) Oxide? Is it an ionic or covalent compound?",
+                "question": "What is the chemical formula for \nCobalt (II) Oxide? Is it an ionic or covalent compound?",
                 "answer": "CoO; Ionic",
                 "image": "images/NO IMAGE.png"
             },
             "18": {
-                "question": "What is the chemical name for FeCl2? Is it an ionic or covalent compound?",
+                "question": "What is the chemical name for \nFeCl2? Is it an ionic or covalent compound?",
                 "answer": "Iron (II) Chloride; Ionic",
                 "image": "images/NO IMAGE.png"
             },
             "19": {
-                "question": "What is the chemical name of B2Br4? Is it an ionic or covalent compound?",
+                "question": "What is the chemical name of B2Br4? \nIs it an ionic or covalent compound?",
                 "answer": "diboron tetrabromide; Covalent",
                 "image": "images/NO IMAGE.png"
             }
         },
         "H": {
             "20": {
-                "question": "What is the geometric shape of a CH4 molecule? Is it a polar bond?",
+                "question": "What is the geometric shape of a \nCH4 molecule? Is it a polar bond?",
                 "answer": "Tetrahedral; non-polar",
                 "image": "images/C3f.png"
             },
             "21": {
-                "question": "What is the geometric shape of a NH3 molecule? Is it a polar bond?",
+                "question": "What is the geometric shape of a NH3 molecule? \nIs it a polar bond?",
                 "answer": "Trigonal pyramid; polar",
                 "image": "images/C3g.png"
             }
@@ -137,12 +137,12 @@
         "E": {
             "25": {
                 "question": "What is synthesis and decomposition?",
-                "answer": "They are chemical reactions in which synthesis will join two single elements together into a compound and decomposition will separate a compound into two different elements.",
+                "answer": "They are chemical reactions in which synthesis will join two\n single elements together into a compound and decomposition\n will separate a compound into two different elements.",
                 "image": "images/NO IMAGE.png"
             },
             "26": {
-                "question": "What is the difference between Single-Replacement and Double-Replacement?",
-                "answer": "Single-Replacement transfers an element into a compound and kicks another out, and Double-Replacement switches the elements in two compounds with each other.",
+                "question": "What is the difference between Single-Replacement\n and Double-Replacement?",
+                "answer": "Single-Replacement transfers an element into a \ncompound and kicks another out, and Double-Replacement\n switches the elements in two compounds with each other.",
                 "image": "images/C4d.png"
             },
             "27": {
@@ -153,12 +153,12 @@
         },
         "M": {
             "23": {
-                "question": "The decay of an unstable element through expelling a He2+ ion called an alpha particle",
+                "question": "The decay of an unstable element through expelling a \nHe2+ ion called an alpha particle",
                 "answer": "\u03b1 decay",
                 "image": "images/NO IMAGE.png"
             },
             "24": {
-                "question": "The decay of an unstable element through expelling an electron called a beta particle",
+                "question": "The decay of an unstable element through expelling \nan electron called a beta particle",
                 "answer": "\ud835\udec3 decay",
                 "image": "images/NO IMAGE.png"
             },
@@ -170,7 +170,7 @@
         },
         "H": {
             "29": {
-                "question": "Which isotope of which element is formed when Thorium-234 undergoes beta decay?",
+                "question": "Which isotope of which element is formed when \nThorium-234 undergoes beta decay?",
                 "answer": "Protactinium-234",
                 "image": "images/NO IMAGE.png"
             }
@@ -218,12 +218,12 @@
         },
         "H": {
             "37": {
-                "question": "Given the equation Si + N2 => Si3N4, with 50g of Si and 102g of N2, How many grams of Si3N4 is possible?",
+                "question": "Given the equation Si + N2 => Si3N4, with 50g of Si \nand 102g of N2, How many grams of Si3N4 is possible?",
                 "answer": "83.25g Si3N4",
                 "image": "images/C5c.png"
             },
             "38": {
-                "question": "Given the equation Al + HBr => AlBr3 + H2, with 32g of Al and 53g of HBr, What is the mass remaining when calculating the molecules for AlBr3?",
+                "question": "Given the equation Al + HBr => AlBr3 + H2, with 32g of Al \nand 53g of HBr, What is the mass remaining when calculating\n the molecules for AlBr3?",
                 "answer": "26.13g Al",
                 "image": "images/NO IMAGE.png"
             }
@@ -244,7 +244,7 @@
         },
         "M": {
             "42": {
-                "question": "What is the amount of energy that it takes to raise the temperature of 1 gram of substance by 1 degree kelvin called?",
+                "question": "What is the amount of energy that it takes to raise the\n temperature of 1 gram of substance by 1 degree kelvin called?",
                 "answer": "Specific Heat Energy",
                 "image": "images/NO IMAGE.png"
             },
@@ -261,12 +261,12 @@
         },
         "H": {
             "41": {
-                "question": "How many joules of heat are needed to raise the temp of aluminum if the mass number is 10.0g from 22 degrees C to 55 degrees C if specific heat of the element aluminum 0.90 j/g C?",
+                "question": "How many joules of heat are needed to raise the \ntemp of aluminum if the mass number is 10.0g from 22 degrees C\n to 55 degrees C if specific heat of the element\n aluminum 0.90 j/g C?",
                 "answer": "297 J",
                 "image": "images/C6c.png"
             },
             "43": {
-                "question": "What is the total amount of heat needed to change 2,250J of the metal silver at 0.0 degrees C to 200.0 C with the specific heat being 0.129J/g C?",
+                "question": "What is the total amount of heat needed to change \n2,250J of the metal silver at 0.0 degrees C to 200.0 C with\n the specific heat being 0.129J/g C?",
                 "answer": "58,050 J",
                 "image": "images/NO IMAGE.png"
             }
