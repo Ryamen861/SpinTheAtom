@@ -1,0 +1,106 @@
+Who proposed energy levels, or orbits? # Niels Bohr # M # C1a
+
+What subatomic particles make up the center of an atom? # Protons and Neutrons # E # NO IMAGE
+
+Who proposed the quantum mechanical model, or the electron cloud? # Schrodinger # H # C1c
+
+What do we call the central chunk of protons and neutrons? # Nucleus # E # C1d
+
+Whose theory said that elements cannot be created or destroyed? # Dalton # H # NO IMAGE
+
+Who proposed the plum pudding model? # J.J. Thomson # M # C1f
+
+Who proposed a ball of positive charge surrounded by electrons? # Rutherford # M # NO IMAGE
+
+
+
+
+What are some characteristics of nonmetals? # dull, brittle, not very good conductors # E # C2a
+
+ There are several different types of orbitals that contain electrons. Which two kinds of orbitals contain valence electrons? # S and P Orbitals # E # C2b
+
+As atomic number increases, what happens to the atomic radius of an element? Therefore, which element has the larger atomic radius, Chlorine or Mercury? # Atomic radius increases as atomic number increases, because more energy levels means a bigger atom; Mercury # M # NO IMAGE
+
+Write the electron configuration of Tellurium. # 1s22s22p63s23p24s23d104p65s24d105p4 # H # NO IMAGE
+
+Write the Noble Gas electron configuration of Iridium. # [Xe]6s24f145d6 # H # NO IMAGE
+Is germanium a metal, metalloid, or nonmetal? # metalloid # M # C2f
+
+When an electron falls from a higher energy level to a lower energy level, what happens? # Energy is released as light # M # C2g
+
+
+
+
+What is the difference between ionic bonds and covalent bonds? # In ionic bonding, the cation transfers electrons to the anion, while in covalent bonding, electrons are shared between the two ions. # E # C3a
+
+Write the chemical formula for carbon tetraiodide? Is it an ionic or covalent compound? # CI4; it is covalent # M # NO IMAGE
+
+What is the chemical formula for Cobalt (II) Oxide? Is it an ionic or covalent compound? # CoO; Ionic # M # NO IMAGE
+
+What is the chemical name for FeCl2? Is it an ionic or covalent compound? # Iron (II) Chloride; Ionic # M # NO IMAGE
+
+What is the chemical name of B2Br4? Is it an ionic or covalent compound? # diboron tetrabromide; Covalent # M # NO IMAGE
+
+What is the geometric shape of a CH4 molecule? Is it a polar bond? # Tetrahedral; non-polar # H # C3f
+
+What is the geometric shape of a NH3 molecule? Is it a polar bond? # Trigonal pyramid; polar # H # C3g
+
+Which group on the periodic table has a full set of valence electrons? Are the elements in this group highly reactive? # Noble gases have 8 valence electrons; no, they are non-reactive # E # C3h
+
+
+The decay of an unstable element through expelling a He2+ ion called an alpha particle # α decay # M # NO IMAGE
+
+The decay of an unstable element through expelling an electron called a beta particle # 𝛃 decay # M # NO IMAGE
+
+What is synthesis and decomposition? # They are chemical reactions in which synthesis will join two single elements together into a compound and decomposition will separate a compound into two different elements. # E # NO IMAGE
+
+What is the difference between Single-Replacement and Double-Replacement? # Single-Replacement transfers an element into a compound and kicks another out, and Double-Replacement switches the elements in two compounds with each other. # E # C4d
+
+What is combustion? # A chemical reaction in which the products of the reaction are CO2 and H2O # E # C4e
+
+Which element is formed when Uranium undergoes alpha decay? # Thorium # M # NO IMAGE
+
+Which isotope of which element is formed when Thorium-234 undergoes beta decay? # Protactinium-234 # H # NO IMAGE
+
+
+
+
+
+
+Convert 5 grams of Flourine to moles # 0.26 moles # E # C5a
+Convert 2.5 grams of Lithium to moles # 0.36 moles # E # NO IMAGE
+Convert .08 moles of Lithium to grams # 3.13 grams # E # NO IMAGE
+Convert 50 moles of the transition metal Nickel to grams # 2934.5 grams # E # NO IMAGE
+
+Convert 33 Liters of Boron to grams # 15.93 grams # M # NO IMAGE
+Convert 50 grams of Carbon to Liters # 93.26 liters # M # C5b
+How many particles are in 26 grams of Sulfur? # 4.88 E 23 particles # M # NO IMAGE
+
+Given the equation Si + N2 => Si3N4, with 50g of Si and 102g of N2, How many grams of Si3N4 is possible? # 83.25g Si3N4 # H # C5c
+
+Given the equation Al + HBr => AlBr3 + H2, with 32g of Al and 53g of HBr, What is the mass remaining when calculating the molecules for AlBr3? # 26.13g Al # H # NO IMAGE
+
+
+
+
+What is the change in matter in which energy is absorbed? # Endothermic # E # C6a
+
+What is the change in matter in which energy is released? # Exothermic # E # NO IMAGE
+
+How many joules of heat are needed to raise the temp of aluminum if the mass number is 10.0g from 22 degrees C to 55 degrees C if specific heat of the element aluminum 0.90 j/g C? # 297 J # H # C6c
+
+What is the amount of energy that it takes to raise the temperature of 1 gram of substance by 1 degree kelvin called? # Specific Heat Energy # M # NO IMAGE
+
+
+What is the total amount of heat needed to change 2,250J of the metal silver at 0.0 degrees C to 200.0 C with the specific heat being 0.129J/g C? # 58,050 J # H # NO IMAGE
+
+What is the temperature of which all molecular motion ceases? # 0 degrees Kelvin # M # NO IMAGE
+
+Name what each variable in equation Q=MCΔT stands for # Q- heat(J), M- mass(g), C- specific heat capacity, ΔT- change in temperature # M # C6g
+
+
+
+
+
+
+

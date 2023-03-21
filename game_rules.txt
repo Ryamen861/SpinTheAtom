@@ -1,0 +1,7 @@
+1. Everyone starts at Hydrogen
+2. Roll a die
+3. Go forward that many spaces (path is from smallest atomic number to greatest)
+4. The element you land on may have a question
+5. Answer the question. Getting it correct gives you the number of points associated with the difficulty. Getting it wrong gives you none
+6. Once everyone reaches the end, count up everyone's scores
+7. The one with the most points wins
