@@ -2,10 +2,9 @@ from tkinter import *
 from tkinter import messagebox
 import json
 import random
-# when updated with questions, reset the limit in the if statement, reset the number in the error messageboxes
 
-# each number gets a bank of questions
-# only show one question from the bank of questions (randomly)
+# TODO fix the displaying of images
+# TODO get rid of buttons, make text entries
 
 FONT1 = ("New Courier", 18, "normal")
 
