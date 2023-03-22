@@ -5,7 +5,6 @@ import json
 import random
 
 # TODO fix the displaying of images
-# TODO get rid of buttons, make text entries
 
 FONT1 = ("Times New Roman", 24, "normal")
 S_FONT = ("Times New Roman", 18, "normal")
