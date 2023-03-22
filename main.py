@@ -32,7 +32,7 @@ class SpinTheAtom:
         self.category_entry.grid(row=1, column=0)
 
         # difficulty entry
-        self.difficulty_label = Label(text="Enter the Difficulty Below \n(first letter, uppercased)", font=FONT1)
+        self.difficulty_label = Label(text="Enter the Difficulty Below", font=FONT1)
         self.difficulty_label.grid(row=0, column=2)
 
         self.difficulty_entry = Entry(width=20, font=FONT1)
@@ -64,12 +64,12 @@ class SpinTheAtom:
         with open("questions.json") as file:
             data = json.load(file)  # save the data in a var
 
-        d = self.difficulty_entry.get()
+        d = self.difficulty_entry.get().upper()
         c = self.category_entry.get()
         
         # check if valid inputs
         if d not in self.difficulties:
-            messagebox.showerror(title="Input Error", message='Please enter in the first letter of the difficulty, capitalized.\nEx: for medium, "M"')
+            messagebox.showerror(title="Input Error", message='Please enter in e, m, or h.')
 
         if int(c) not in range(1, 7):
             messagebox.showerror(title="Input Error", message="Please enter in a number between 1 and 6")

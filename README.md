@@ -10,7 +10,7 @@ A Calculator
 # How it works
 The youngest person goes first.
 Roll a dice. Enter that into the text entry.
-Spin the spinner on the game board. If you get "hard", type in "H". If you get "medium", type in "M". If you get "easy", type in "E".
+Spin the spinner on the game board. Type in the first letter of the difficulty. For example, if you get "medium", type in "m" or "M".
 If you get it right, you get points based on the difficulty. E = 1, M = 2, H = 3.
 If you don't get it right, you don't get any points.
 The first one to 15 points wins!
